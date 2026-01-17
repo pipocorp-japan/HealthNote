@@ -1,0 +1,5 @@
+{
+  "name": "HealthNote",
+  "description": "A glassmorphic personal health tracking application featuring biometric analysis, child mode, and aesthetic data visualization.",
+  "requestFramePermissions": []
+}
